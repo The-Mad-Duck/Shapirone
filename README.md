@@ -1,0 +1,2 @@
+# Shapirone
+Funny discord bot.
